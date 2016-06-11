@@ -1,5 +1,6 @@
 .venv/
 .idea/
+/hipbot-data.txt
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
